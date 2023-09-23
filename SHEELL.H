@@ -20,6 +20,9 @@ char *string_copy(char *destination, char *source);
 int string_length(char *str_to_measure);
 int checkEnvironmentCommand(char *command);
 int putcharr(char character, int fd);
+int displayEnvironment();
+
+
 
 
 
